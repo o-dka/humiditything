@@ -1,4 +1,5 @@
 #include "Adafruit_Si7021.h"
+#include "Adafruit_SSD1306.h"
 #define BuzzerPin 7
 #define ResetPin 6
 #define LED 13
