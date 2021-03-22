@@ -1,5 +1,5 @@
 # humiditything
-Climate station using Si7021 and Arduino Mini Pro
+Climate station using SPI 1306 OLED , Si7021 and Arduino Mini Pro
 
 Wiring:
 ```
