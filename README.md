@@ -1,7 +1,9 @@
 # Humidity Thing
-![image](Pictures\icon.png)
+
+<img src="https://github.com/o-dka/humiditything/blob/main/Pictures/icon.png" />
 
 Climate station using SPI 1306 OLED , Si7021 and Arduino Pro Mini.
+
 ##### (All of these devices are 3.3v)
 Wiring:
 ```
